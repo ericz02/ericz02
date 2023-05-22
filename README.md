@@ -1,7 +1,8 @@
 # 🐯 ericz02
 
-**``**
+**`coding connoisseur (developer/student)`**
 
+hello world! i am eric and a student at CSI. currently i have interests and learning web development.
 
 
 
