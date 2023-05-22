@@ -31,7 +31,7 @@ all of the coding projects are built from scratch, from planning to designing al
 <img align="left" alt="SQLlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 
 <br />
-
+<br />
 <br />
 
 ### stats
