@@ -24,8 +24,6 @@ all of the coding projects are built from scratch, from planning to designing al
 <br />
 
 <br />
-<br />
-<br />
 
 ### stats
 
