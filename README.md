@@ -3,7 +3,7 @@
 **`coding connoisseur (developer/student)`**
 
 hello world! i am eric and a student at CSI. currently i have interest in & learning web development.
-one of the things that inspired me to pursue in tech is creating something that helps your life or someone else's easier.
+one of the things that inspired me to pursue in tech is creating something that helps your life or someone else's life to be easier.
 all of the coding projects are built from scratch, from planning to designing all the way to solving real-life problems with code
 
 ---
