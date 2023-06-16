@@ -36,6 +36,7 @@ all of the coding projects are built from scratch, from planning to designing al
 <br />
 
 ### stats
+![](https://komarev.com/ghpvc/?username=ericz02)
 
 ![eric's github stats](https://github-readme-stats.vercel.app/api?username=ericz02&show_icons=true&theme=gotham)
 
