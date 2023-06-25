@@ -2,9 +2,7 @@
 
 **`(developer/student)`**
 
-helloo i am eric and a student at CSI. currently i have interest in & learning web development.
-one of the things that inspired me to pursue in tech is creating something that helps your life or someone else's life to be easier.
-all of the coding projects are built from scratch, from planning to designing all the way to solving real-life problems with code
+helloo im eric, a student at CSI, with a strong interest in web development. im passionate about creating meaningful solutions that make life easier for myself and others. i enjoy working on coding projects from start to finish, including planning, designing, and solving real-life problems using code.
 
 ---
 
