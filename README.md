@@ -26,8 +26,6 @@ class ProfileInfo:
     </p> -->
 
 </p>
-<br>
-
 
 ### language and tools
 
