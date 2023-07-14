@@ -21,11 +21,13 @@ class ProfileInfo:
 
 <br>
 <p>
-    <figure align="center">
-        <img src="https://media.tenor.com/87F-ga-VtA0AAAAC/anime-chill.gif"></img>
-    </figure>
+    <p align="center">
+        <img src="https://media.tenor.com/87F-ga-VtA0AAAAC/anime-chill.gif" alt="GIF">
+    </p>
+
 </p>
 <br>
+
 
 ### language and tools
 
@@ -51,14 +53,19 @@ class ProfileInfo:
 <img align="left" alt="SQLlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 
 <br>
+<br>
+<br>
+
 
 ### stats
+
 ![](https://komarev.com/ghpvc/?username=ericz02)
 
 ![eric's github stats](https://github-readme-stats.vercel.app/api?username=ericz02&show_icons=true&theme=gotham)
 
 
 ### watch my commits slowly get eaten
+
 
 ![snake gif](https://github.com/ericz02/ericz02/blob/output/github-contribution-grid-snake.svg)
 
