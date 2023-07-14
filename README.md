@@ -21,9 +21,9 @@ class ProfileInfo:
 
 <br>
 <p>
-    <p align="center">
+<!--     <p align="center">
         <img src="https://media.tenor.com/87F-ga-VtA0AAAAC/anime-chill.gif" alt="GIF">
-    </p>
+    </p> -->
 
 </p>
 <br>
