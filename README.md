@@ -1,10 +1,31 @@
-# 🐯 ericz02
-
+# 🐯 ericz02 
 **`(developer/student)`**
 
-helloo im eric, a student at CSI, with a strong interest in web development. im passionate about creating meaningful solutions that make life easier for myself and others. i enjoy working on coding projects from start to finish, including planning, designing, and solving real-life problems using code.
 
----
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%237848E6&center=true&lines=Hi+there!+Welcome+to+my+profile!">
+</p>
+
+```py
+class ProfileInfo:
+    def __init__(self):
+        self.username = "ericz02"
+        self.age = 20
+        self.location = "New York"
+        self.hobby = "Coding & Gaming"
+        self.mainlang = "JavaScript"
+        self.os = "macOS"
+        self.ide = "VSCode"
+```
+
+<br>
+<p>
+    <figure align="center">
+        <img src="https://media.tenor.com/87F-ga-VtA0AAAAC/anime-chill.gif"></img>
+    </figure>
+</p>
+<br>
 
 ### language and tools
 
