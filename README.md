@@ -50,7 +50,7 @@ class ProfileInfo:
 <img align="left" alt="SQLlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 
 <br />
-<br>
+<br >
 <br />
 <br />
 
@@ -59,7 +59,7 @@ class ProfileInfo:
 
 ![](https://komarev.com/ghpvc/?username=ericz02)
 
-![eric's github stats](https://github-readme-stats.vercel.app/api?username=ericz02&show_icons=true&theme=gotham)
+![eric's github stats](https://github-readme-stats.vercel.app/api?username=ericz02&show_icons=true&theme=holi)
 
 
 ### watch my commits slowly get eaten
