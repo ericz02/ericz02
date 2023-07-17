@@ -63,4 +63,5 @@ class ProfileInfo:
 
 
 ### watch my commits slowly get eaten
-![snake gif](https://github.com/ericz02/ericz02/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ericz02/ericz02/blob/output/dist/github-contribution-grid-snake.gif)
+
