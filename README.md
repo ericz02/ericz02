@@ -11,7 +11,7 @@ class ProfileInfo:
         self.username = "ericz02"
         self.age = 20
         self.location = "new york"
-        self.hobby = "developer/student"
+        self.hobby = "coding/gaming"
         self.mainlang = "javascript"
         self.os = "macOS"
         self.ide = "vscode"
