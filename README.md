@@ -9,7 +9,7 @@
 class ProfileInfo:
     def __init__(self):
         self.username = "ericz02"
-        self.age = 20
+        self.age = 21
         self.location = "new york"
         self.hobby = "coding/gaming"
         self.mainlang = "javascript"
