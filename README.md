@@ -46,10 +46,9 @@ class ProfileInfo:
     <a href="" target="_blank" rel="noreferrer" title=""> <img src="https://skillicons.dev/icons?i=css" alt="" width="40" height="40"> </a>
     <!-- Backend Icons -->
     <a href="" target="_blank" rel="noreferrer" title=""> <img src="https://skillicons.dev/icons?i=expressjs" alt="" width="40" height="40"> </a>
-    <a href="" target="_blank" rel="noreferrer" title=""> <img src="https://skillicons.dev/icons?i=sequelizejs" alt="" width="40" height="40"> </a>
+    <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sequelize" alt="sequelizejs" width="40" height="40"> </a>
     <a href="" target="_blank" rel="noreferrer" title=""> <img src="https://skillicons.dev/icons?i=postgresql" alt="" width="40" height="40"> </a>
     <a href="" target="_blank" rel="noreferrer" title=""> <img src="https://skillicons.dev/icons?i=sqlite" alt="" width="40" height="40"> </a>
-    <a href="" target="_blank" rel="noreferrer" title=""> <img src="https://skillicons.dev/icons?i=amazon" alt="" width="40" height="40"> </a>
     <a href="" target="_blank" rel="noreferrer" title=""> <img src="https://skillicons.dev/icons?i=aws" alt="" width="40" height="40"> </a>
     <a href="" target="_blank" rel="noreferrer" title=""> <img src="https://skillicons.dev/icons?i=mongodb" alt="" width="40" height="40"> </a>
     <a href="" target="_blank" rel="noreferrer" title=""> <img src="https://skillicons.dev/icons?i=supabase" alt="" width="40" height="40"> </a>
